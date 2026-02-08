@@ -1,23 +1,23 @@
-# Hola, soy Bernardo 👋
+### Hola, soy Bernardo Recamales 👋
 
-Desarrollador Front-end apasionado por construir experiencias web limpias y accesibles. Actualmente domino HTML, CSS y JavaScript, y continúo aprendiendo nuevas tecnologías para crecer profesionalmente.
+Soy un **Desarrollador Frontend** en plena transformación profesional. Aplico la disciplina del **Trail Running** 🏔️ y la filosofía de **'Deep Work'** al código: enfoque total, mejora constante (1% diario) y resultados sólidos.
 
-## Mis últimos proyectos:
+- 🔭 Actualmente trabajando en: **Web Corporativa para cliente real (Desatascos Manuel)**.
+- 🌱 Aprendiendo a fondo: **React, Lógica de Programación y Arquitectura CSS**.
+- ⚡ Enfoque: Calidad sobre cantidad. Código limpio y funcional.
 
-## 🚀 Proyectos Destacados:
-- 🌐 [Mi Portafolio Web](https://bernardorecamales.com) – HTML, CSS, JS
-- 🔄 Conversor de millas a kilómetros – Proyecto práctico Front-end (HTML, CSS, JS)
+---
 
-## 💻 Tecnologías Principales:
-- HTML5
-- CSS3 (Flexbox, Grid, Responsive)
-- JavaScript (básico y en continuo aprendizaje)
-- Git & GitHub
-- Render para despliegue web
+#### 🛠️ Mi Stack Tecnológico
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-## 📫 Contacto:
+---
 
-- [LinkedIn] https://www.linkedin.com/in/bernardo-recamales-guti%C3%A9rrez-13b87a2a1/
-- Correo electrónico: Bernardorecamalesgt@gmail.com
-
-Estoy abierto a oportunidades laborales y colaboraciones.
+#### 📬 Conectemos
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/bernardo-recamales-guti%C3%A9rrez-13b87a2a1/)
