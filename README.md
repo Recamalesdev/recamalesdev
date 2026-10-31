@@ -23,7 +23,7 @@ Indie Hacker y Arquitecto de Sistemas desde Bornos, Andalucía 🏔️. No sigo 
 
 ### 💼 Casos de Éxito & Proyectos Destacados
 
-- **[ZÉNIT (SaaS Trail Running)](https://bernardorecamales.com/)**: PWA SaaS premium para corredores de montaña que entrenan con datos, construida con React 19, TypeScript strict y Supabase.
+- **ZÉNIT (SaaS Trail Running)** 🔒 *(En Desarrollo / Beta Cerrada)*: PWA SaaS premium para corredores de montaña que entrenan con datos. Construida con React 19, TypeScript strict y Supabase. Puedes ver el concepto y visión en mi [Portafolio Oficial](https://bernardorecamales.com/).
 - **[Desatascos Manuel](https://bernardorecamales.com/)**: Plataforma web de producción y alto rendimiento orientada a conversión mobile-first para negocio local en la Sierra de Cádiz.
 
 ---
